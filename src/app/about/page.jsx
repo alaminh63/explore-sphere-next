@@ -38,6 +38,7 @@ import helmet from '../../../public/ni7_images/about/helmet.png'
 
 
 
+
 import play_btn from '../../../public/ni7_images/home/Ready/play-button.json'
 import ready_to_travel_bg from '../../../public/ni7_images/about/ready_to_travel_bg.jpg'
 import Lottie from "lottie-react";
